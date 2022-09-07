@@ -15,11 +15,13 @@ Here are some ideas to get you started:
  📫 How to reach me: ...
  😄 Pronouns: ...
  ⚡ Fun fact: ...
+  
  <div id="header" align="center">
   <img src="https://cdn.discordapp.com/attachments/863452860359639042/1017113599132577853/21.png" >
 </div>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/r1fu8NagwnHI1Nw8K9/giphy.gif" >
+  
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/kg6TGqv2aSd4ZTSUL2/giphy.gif" >
 </div>
 
 <!--
