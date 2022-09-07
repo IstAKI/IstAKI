@@ -20,10 +20,11 @@ Here are some ideas to get you started:
   <img src="https://cdn.discordapp.com/attachments/863452860359639042/1017113599132577853/21.png" >
 </div>
   
+<!--
+Гифки
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/kg6TGqv2aSd4ZTSUL2/giphy.gif" width="100"/>
 </div>
-
-<!--
-Тут ещё ничего нету
+https://media.giphy.com/media/l1J9LMNeWISnddECA/giphy.gif
+https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif
 -->
