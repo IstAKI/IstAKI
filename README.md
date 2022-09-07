@@ -16,7 +16,7 @@ Here are some ideas to get you started:
  😄 Pronouns: ...
  ⚡ Fun fact: ...
  <div id="header" align="center">
-  <img src="https://cdn.discordapp.com/attachments/863452860359639042/1017112533099884604/21.png" >
+  <img src="https://cdn.discordapp.com/attachments/863452860359639042/1017113599132577853/21.png" >
 </div>
 
 <!--
