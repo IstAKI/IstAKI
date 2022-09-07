@@ -5,17 +5,26 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div align="center">
-Here are some ideas to get you started:
-
- 🔭 I’m currently working on ...
- 🌱 I’m currently learning ...
- 👯 I’m looking to collaborate on ...
- 🤔 I’m looking for help with ...
- 💬 Ask me about ...
- 📫 How to reach me: ...
- 😄 Pronouns: ...
- ⚡ Fun fact: ...
+Let me quickly tell you about myself: [Ru]
   
+<div align="left">
+- 🎁 Я не быстро печатаю, примерно 170 зн.\мин.
+- 🎃 Люблю смотреть аниме, читать ранобе и мангу.
+- 🌱 Не люблю часто убиратся, пусть и обожаю порядок.
+- 👯 Медленно учусь, думаю это связанно с ленью.
+- 🤔 Рост 170(169)см, вес 50 кг, 15(18) годиков.
+- ⚡ Забавный факт: 
+- ⚡ Факт сверху был нериально забавным.
+ </div>
+ <div align="left">
+    Теперь к плюсам `я же говорил что до этого были минусы?`
+ </div>
+ <div align="Right">
+- 🎁 Исправляю минусы которые вижу в себе.
+- 🎃 Я не писимист и не фанат самокритики.
+- 🌱 Плюсов больше я не придумал.
+- ⚡ Факт сверху всё ещё нериально завабный.
+ </div>
  <div id="header" align="center">
   <img src="https://cdn.discordapp.com/attachments/863452860359639042/1017113599132577853/21.png" >
 </div>
@@ -27,4 +36,5 @@ Here are some ideas to get you started:
 </div>
 https://media.giphy.com/media/l1J9LMNeWISnddECA/giphy.gif
 https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif
+https://media.giphy.com/media/gi84IkFRzwube/giphy.gif
 -->
