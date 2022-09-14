@@ -8,7 +8,7 @@ Let me quickly tell you about myself: [Ru]
   Тут сечас пусто 🎁
   
 <div id="header" align="center">
-  <img src="https://media.discordapp.net/attachments/891716468813733889/891725498273652777/download_2.gif" width="100"/>
+  <img src="https://media.discordapp.net/attachments/891716468813733889/891725498273652777/download_2.gif" width="600"/>
 </div>
   
  🎁 Я не быстро печатаю, примерно 170 зн.\мин. <br>
@@ -20,7 +20,7 @@ Let me quickly tell you about myself: [Ru]
  ⚡ Факт сверху был нериально забавным. <br>
   
  <div id="header" align="center">
-  <img src="https:https://media.discordapp.net/attachments/891716468813733889/891721140878327809/download_1.gif" width="100"/>
+  <img src="https://media.discordapp.net/attachments/891716468813733889/891725498273652777/download_2.gif" width="600"/>
 </div>
     Теперь к плюсам `я же говорил что до этого были минусы?`<br>
 
