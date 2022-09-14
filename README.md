@@ -7,7 +7,7 @@
 Let me quickly tell you about myself: [Ru]
   Тут сечас пусто 🎁
   
-<div id="header" align="center">
+<div id="header" align="right">
   <img src="https://media.discordapp.net/attachments/891716468813733889/891725498273652777/download_2.gif" width="600"/>
 </div>
   
