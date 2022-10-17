@@ -5,15 +5,16 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 ★・・・・・・・★・・・・・・・・★・・・・・・・★・・・・・・・・★・・・・・・・★・・・・・・・・★・・・・・・・★・・・・・・・・★<br>
-  ┍━━━━━━━━━━━━━━━━━━━━━━━━╝☆╚━━━━━━━━━━━━━━━━━━━━━━━━┑<br>
+ <div id="header" align="center">
+ ┍━━━━━━━━━━━━━━━━━━━━━━━━╝☆╚━━━━━━━━━━━━━━━━━━━━━━━━┑<br>
 <br>
                        ☆Заголовок☆<br>
 <br>
   ┕━━━━━━━━━━━━━━━━━━━━━━━━╗☆╔━━━━━━━━━━━━━━━━━━━━━━━━┙<br>
-     ⇘⇘⇙⇙                             ⇘⇘⇙⇙<br>
-    ⇒ тык ⇐                          ⇒ тык ⇐<br>
-     ⇗⇗⇖⇖                             ⇗⇗⇖⇖ <br>
-  
+     ⇘⇘⇙⇙<br>
+    ⇒ тык ⇐<br>                          
+     ⇗⇗⇖⇖<br>                             
+</div>  
 <div id="header" align="right">
   <img src="https://media.discordapp.net/attachments/891716468813733889/891725498273652777/download_2.gif" width="600"/>
 </div>
