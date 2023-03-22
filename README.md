@@ -12,7 +12,7 @@
 </div>
 <br>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://i.pinimg.com/originals/ba/e1/ea/bae1ea7342b7d5fe3d8c1277d2443154.gif" width ="1000" height = "400" >
 </div>
 <h2>О моих развлечениях</h2>
 <div id="header" align="center">
