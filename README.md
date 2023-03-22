@@ -1,6 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 <h2>Обо мне </h2>
  <div id="header" align="center">
   ★・・・・・・・★・・・・・・・・★・・・・・・・★・・・・★・・・・★・・・・・・・★・・・・・・・・★・・・・・・・★<br>
@@ -22,4 +19,7 @@
 <p align="left ">А так же придумывать персонажей с их личной историей. По этому я считаю что создания игр как основное хоббббббби было бы ещё большим удовольствием для меня </p>
   ┕━━━━━━━━━━━━━━━━━━━━━━━━╗☆╔━━━━━━━━━━━━━━━━━━━━━━━━┙<br>
    ★・・・・・・・★・・・・・・・・★・・・・・・・★・・・・★・・・・★・・・・・・・★・・・・・・・・★・・・・・・・★<br>
+</div>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
