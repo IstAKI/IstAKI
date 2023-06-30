@@ -4,8 +4,8 @@
   <p style = "collor:blue">Статус: Junior (3 курс)</p> 
   <p align="left"> Изучаемые языки (От самого изученого до уровня надо бы повторить)</p>  
   <ul align="left">
-   <li>C#</lit
-    <li>Java Script
+   <li>C#</li>
+   <li>Java Script
       <ul>
         <li>jQuery</li>
         <li>Boostrap</li>
