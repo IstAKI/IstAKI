@@ -21,7 +21,7 @@
  <br><br>★・・・・・・・★・・・・・・・・★・・・・・・・★・・・・★・・・・★・・・・・・・★・・・・・・・・★・・・・・・・★<br><br>
 <br>
 <div id="main" align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
+  <p style = "collor:blue">Тут должны быть виджеты</p>
 </div>
 <h2>О моих развлечениях</h2>
 <div id="futer" align="center">
