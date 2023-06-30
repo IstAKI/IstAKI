@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=28&pause=1000&color=72ACE5&center=true&repeat=true&width=435&lines=About+me" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=250&size=28&pause=1000&color=72ACE5&center=true&repeat=true&width=435&lines=About+me" alt="Typing SVG"/></a>
 <hr>
  ★・・・・・・・★・・・・・・・・★・・・・・・・★・・・・★・・・・★・・・・・・・★・・・・・・・・★・・・・・・・★<br><br>
   <h2>Навыки:</h2>
