@@ -1,10 +1,10 @@
 <div id="about+my+education" align="center">
 <img src="https://ie.wampi.ru/2023/06/30/ZAGRUZKA.png" alt="ZAGRUZKA.png" border="0"><br><br><br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=28&pause=1000&color=72ACE5&center=false&repeat=false&width=435&lines=|++About+my+education" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=28&pause=1000&color=72ACE5&center=false&repeat=true&width=435&lines=|++About+my+education" alt="Typing SVG" /></a>
   <p style = "collor:blue">Статус: Junior (3 курс)</p> 
   <p align="left"> Изучаемые языки (От самого изученого до уровня надо бы повторить)</p>  
   <ul align="left">
-   <li>C#</li>
+   <li>C#</lit
     <li>Java Script
       <ul>
         <li>jQuery</li>
