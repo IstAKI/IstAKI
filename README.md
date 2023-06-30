@@ -20,7 +20,7 @@
 <div id="profile+statistics" align="left">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=28&pause=1000&color=72ACE5&center=false&repeat=true&width=435&lines=|++Profile+Statistics" alt="Typing SVG"/></a>
   <p>Тут должны быть виджеты</p>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=IstAKI&theme=transparent&locale=ru"/></a>
+  <a align="center"href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=IstAKI&theme=transparent&locale=ru"/></a>
 </div>
 <div id="about+my+entertainment" align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=28&pause=1000&color=72ACE5&center=false&repeat=true&width=435&lines=|++About+my+entertainment" alt="Typing SVG"/></a>
