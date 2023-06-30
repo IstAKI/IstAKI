@@ -1,6 +1,6 @@
 <div id="header" align="center">
 <h2>Обо мне </h2>
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=280&lines=Раздел:+Obaut+me" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=240&lines=Раздел:+Obaut+me" alt="Typing SVG" /></a>
  <br><br>★・・・・・・・★・・・・・・・・★・・・・・・・★・・・・★・・・・★・・・・・・・★・・・・・・・・★・・・・・・・★<br><br>
   <h2>Навыки:</h2>
   <p>Статус: Junior (3 курс)</p> 
