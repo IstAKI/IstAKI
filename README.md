@@ -17,8 +17,8 @@
    <li>1С</li>
  </ul>
 </div>
-<div id="profile+statistics" align="left">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=28&pause=1000&color=72ACE5&center=false&repeat=true&width=435&lines=|++Profile+Statistics" alt="Typing SVG"/></a>
+<div id="profile+statistics" align="center">
+ <a align="left" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=28&pause=1000&color=72ACE5&center=false&repeat=true&width=435&lines=|++Profile+Statistics" alt="Typing SVG"/></a>
   <p>Статистика использования Github на этом аккаунте</p>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=IstAKI&theme=transparent&locale=ru"/></a>
 </div>
