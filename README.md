@@ -19,24 +19,24 @@
 
 ## Рабочая область
 Для приклодного ПО
-- Rider
-- Visual Studio 2022
+ - Rider
+ - Visual Studio 2022
 Для Web-сайтов
-- WebStorm
-- Figma (В ней я оптимизирую процесс)
+ - WebStorm
+ - Figma (В ней я оптимизирую процесс)
 Для Работы с БД
-- MongoBD
-- SQL Server
-Для игр
-- Godot Engine 4.0 mono (C#)
-- Unreal Engine
+ - MongoBD
+ - SQL Server
+<p>Для игр</p>
+ - Godot Engine 4.0 mono (C#)
+ - Unreal Engine
 Для дизайна
-- Photoshop
-- Gimp
-- Figma
-- Aseprite
-- Blender (Давненько не использовал)
-- Ilustrator
+ - Photoshop
+ - Gimp
+ - Figma
+ - Aseprite
+ - Blender (Давненько не использовал)
+ - Ilustrator
 
 ## Проекты и опыт
 Я имею опыт работы с различными языками программирования и фреймворками. Сейчас я наиболее уверен в C#, JavaScript и jQuery, и активно применяю их в проектах. Также я знаком с C++, Python и Godot Script (GD), и готов углубить свои знания в этих областях.
