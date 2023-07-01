@@ -21,22 +21,22 @@
 Для приклодного ПО
  - Rider
  - Visual Studio 2022
-Для Web-сайтов
- - WebStorm
- - Figma (В ней я оптимизирую процесс)
-Для Работы с БД
- - MongoBD
- - SQL Server
-<p>Для игр</p>
- - Godot Engine 4.0 mono (C#)
- - Unreal Engine
-Для дизайна
- - Photoshop
- - Gimp
- - Figma
- - Aseprite
- - Blender (Давненько не использовал)
- - Ilustrator
+Для Web-сайтов<br>
+ - WebStorm<br>
+ - Figma (В ней я оптимизирую процесс)<br>
+Для Работы с БД<br>
+ - MongoBD<br>
+ - SQL Server<br>
+Для игр<br>
+ - Godot Engine 4.0 mono (C#)<br>
+ - Unreal Engine<br>
+Для дизайна<br>
+ - Photoshop<br>
+ - Gimp<br>
+ - Figma<br>
+ - Aseprite<br>
+ - Blender (Давненько не использовал)<br>
+ - Ilustrator<br>
 
 ## Проекты и опыт
 Я имею опыт работы с различными языками программирования и фреймворками. Сейчас я наиболее уверен в C#, JavaScript и jQuery, и активно применяю их в проектах. Также я знаком с C++, Python и Godot Script (GD), и готов углубить свои знания в этих областях.
