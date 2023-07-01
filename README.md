@@ -1,20 +1,30 @@
 <div id="about+my+education" align="left">
 <img src="https://ie.wampi.ru/2023/06/30/ZAGRUZKA.png" alt="ZAGRUZKA.png" border="0"><br><br><br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=28&pause=1000&color=72ACE5&center=false&repeat=true&width=435&lines=|++About+my+education" alt="Typing SVG" /></a>
-  <p >Статус: Junior (3 курс)</p> 
+  <p>Статус: Junior (3 курс)</p> 
   <p > Изучаемые языки (От самого изученого до уровня надо бы повторить)</p>  
-  <ul>
-   <li>C#</li>
-   <li>Java Script
-      <ul>
-        <li>jQuery</li>
-        <li>Boostrap</li>
-      </ul>
-    </li>
-   <li>C++</li>
-   <li>Phyton</li>
-   <li>GD(Godot Script)</li>
-   <li>1С</li>
+
+## Обо мне
+Я студент [Витебского Государственного Колледжа Электротехники] и находусь на 3 курсе. Моя специализация техник-програмист. Я стремлюсь к профессиональному росту и постоянно развиваю свои навыки в программировании.
+
+## Навыки
+- C#
+- JavaScript
+- jQuery
+- Bootstrap
+- C++
+- Python
+- Godot Script (GD)
+- 1С (базовые знания)
+
+## Проекты и опыт
+Я имею опыт работы с различными языками программирования и фреймворками. Сейчас я наиболее уверен в C#, JavaScript и jQuery, и активно применяю их в проектах. Также я знаком с C++, Python и Godot Script (GD), и готов углубить свои знания в этих областях.
+
+## Цель
+Моя цель - применить свои навыки и знания в реальных проектах, а также продолжать учиться и развиваться в программировании. Я открыт для новых вызовов, готов работать в команде и делиться своим опытом.
+
+Спасибо за внимание! Я верю, что мои навыки и стремление к развитию помогут мне успешно внести вклад в ваш проект или компанию.
+
  </ul>
 </div>
  <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=28&pause=1000&color=72ACE5&center=false&repeat=true&width=435&lines=|++Profile+Statistics" alt="Typing SVG"/></a>
