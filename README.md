@@ -28,9 +28,9 @@
 </div>
  <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=28&pause=1000&color=72ACE5&center=false&repeat=true&width=435&lines=|++Profile+Statistics" alt="Typing SVG"/></a>
  <div id="profile+statistics" align="center">
-  <p>Статистика использования Github на этом аккаунте</p>
+##Статистика использования Github на этом аккаунте
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=IstAKI&theme=transparent&locale=ru"/></a>
-   <p>Общая оценка аккаунта</p>
+##Общая оценка аккаунта
    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=IstAKI&show_icons=true&theme=tokyonight"/></a>
 </div>
 <br> <br> <br>
