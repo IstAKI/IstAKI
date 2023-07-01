@@ -18,19 +18,19 @@
 - 1С (базовые знания)
 
 ## Рабочая область
-Для приклодного ПО
+<p>Для приклодного ПО</p>
   + Rider
   + Visual Studio 2022
-Для Web-сайтов
+<p>Для Web-сайтов</p>
   + WebStorm
   + Figma (В ней я оптимизирую процесс)
-Для Работы с БД
+<p>Для Работы с БД</p>
   + MongoBD
   + SQL Server
-Для игр<br>
+<p>Для игр</p>
   + Godot Engine 4.0 mono (C#)
   + Unreal Engine
-Для дизайна
+<p>Для дизайна</p>
   + Photoshop
   + Gimp
   + Figma
