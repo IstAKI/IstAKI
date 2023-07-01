@@ -21,19 +21,19 @@
 <p>Для приклодного ПО</p>
   + Rider
   + Visual Studio 2022
-  ㅤ
+<p> </p>
 <p>Для Web-сайтов</p>
   + WebStorm
   + Figma (В ней я оптимизирую процесс)
-  ㅤ
+<p> </p>
 <p>Для Работы с БД</p>
   + MongoBD
   + SQL Server
-  ㅤ
+<p> </p>
 <p>Для игр</p>
   + Godot Engine 4.0 mono (C#)
   + Unreal Engine
-  ㅤ
+<p> </p>
 <p>Для дизайна</p>
   + Photoshop
   + Gimp
