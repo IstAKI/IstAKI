@@ -63,5 +63,5 @@
 <div id="about+my+entertainment" align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=28&pause=1000&color=72ACE5&center=false&repeat=true&width=435&lines=|++About+my+entertainment" alt="Typing SVG"/></a>
 <p align="left">Мне очень нравится творить и созидать (тавтология?). Моим яростным хобби является создания эстетичных пинов для пинтерест в Photoshop </p>
-<p align="left">А так же придумывать персонажей с их личной историей. По этому я считаю что создания игр как основное хоббббббби было бы ещё большим удовольствием для меня </p>
+<p align="left">А так же придумывать персонажей с их личной историей. По этому я считаю что создания игр как основное хоби было бы ещё большим удовольствием для меня </p>
 </div>
