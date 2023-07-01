@@ -33,6 +33,7 @@
    <p>Общая оценка аккаунта</p>
    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=IstAKI&show_icons=true&theme=tokyonight"/></a>
 </div>
+<br> <br> <br>
 <div id="about+my+entertainment" align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=28&pause=1000&color=72ACE5&center=false&repeat=true&width=435&lines=|++About+my+entertainment" alt="Typing SVG"/></a>
 <p align="left">Мне очень нравится творить и созидать (тавтология?). Моим яростным хобби является создания эстетичных пинов для пинтерест в Photoshop </p>
