@@ -22,7 +22,7 @@
   <p>Статистика использования Github на этом аккаунте</p>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=IstAKI&theme=transparent&locale=ru"/></a>
    <p>Общая оценка аккаунта</p>
-   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=IstAKI&show_icons=true&theme=radical"/></a>
+   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=IstAKI&show_icons=true&theme=cobalt"/></a>
 </div>
 <div id="about+my+entertainment" align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=28&pause=1000&color=72ACE5&center=false&repeat=true&width=435&lines=|++About+my+entertainment" alt="Typing SVG"/></a>
